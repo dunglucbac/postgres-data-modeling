@@ -38,7 +38,7 @@ postgres-data-modeling
 
 Clone repository to local machine
 ```
-git clone https://github.com/brfulu/postgres-data-modeling.git
+git clone https://github.com/dunglucbac/postgres-data-modeling.git
 ```
 
 Change directory to local repository
